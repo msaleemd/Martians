@@ -4,10 +4,11 @@ If Martians
    << End of code from humans >>
    
    << Start martian change >>
+   << Change incorporated by Human :  ABC-1 >>
    
    If humans
-      then intellect < martians
+      then intellect > martians
       
-      << Commented on  Jun/02/2021 >>
+      << Commented on  Jun/03/2021. The above statement should read as > instead of <. Fix Applied. >>
       
       
